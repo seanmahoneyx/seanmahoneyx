@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Myself
+Hello, I'm Sean. I'm currently a Data Analyst Manager with experience in data analysis, business intelligence, reporting, visualizations, data engineering, data science and full-stack web development. I'm eternally curious and I love learning!
 
-<!--
-**seanmahoneyx/seanmahoneyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Querying data using SQL
+- Generate reports and ad-hoc data analysis using SQL and Python
+- Developing visualizations on Tableau and Looker Studio
+- Data analysis and reporting using Excel
+- ETL pipelines and custom data models using Python
+- Full-stack web applications using Django and React
 
-Here are some ideas to get you started:
+### 📚Projects
+Weclome to my portfolio where you can check out my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️Tools
+- Languages: SQL, Python, Javascript
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
+
+### 👋 Connect with Me
+- Linkedin
